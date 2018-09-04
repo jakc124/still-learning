@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf8">
 <title>Computer in a desk</title>
+<style>
+body{background-color:"grey";}
+</style>
 </head>
 <body>
 <h2>The plan</h2>
